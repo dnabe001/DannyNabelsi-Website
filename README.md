@@ -1,6 +1,8 @@
+Danny Nabelsi - Biology
 
-# Welcome to LearnCS8 Resume Website
+![Final Design of My Website](img/Final Website Design.jpg)
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+![Final Design of My Website in Cloud9](img/Final Design in Cloud9.jpg)
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+
+
